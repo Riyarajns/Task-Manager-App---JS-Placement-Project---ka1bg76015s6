@@ -168,7 +168,7 @@ body{
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    border: solid 3px #d1b500;
+    border: solid 3px red;
     background-color: #ffffff;
 }
 #box2 .desc-btn{
@@ -176,7 +176,7 @@ body{
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    border: solid 3px #4ae7a6;
+    border: solid 3px yellow;
     background-color: #ffffff;
 }
 #box3 .desc-btn{
@@ -184,7 +184,7 @@ body{
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    border: solid 3px #3200b1;
+    border: solid 3px bule;
     background-color: #ffffff;
 }
 #box4 .desc-btn{
@@ -192,7 +192,7 @@ body{
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    border: solid 3px #e74a4a;
+    border: solid 3px green;
     background-color: #ffffff;
 }
 .dragging{
